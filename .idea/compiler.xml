@@ -9,5 +9,8 @@
         <module name="activemq-demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq-demo" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
